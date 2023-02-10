@@ -1,6 +1,5 @@
 - 👋 Hi, I’m diego
-- 👀 I’m interested in GIS and Remote Sensing
-- 🌱 I’m currently learning Web GIS Development
+- 👀 I’m interested in Data modelling, GIS and Remote Sensing
 - 📫 How to reach me: diegoxavier95@gmail.com
 
 <!---
